@@ -1,0 +1,3 @@
+/Users/yuyaotu/Desktop/myGithubRepo/FinalProject/xcode/CMakeFiles/testSFML.dir
+/Users/yuyaotu/Desktop/myGithubRepo/FinalProject/xcode/CMakeFiles/ALL_BUILD.dir
+/Users/yuyaotu/Desktop/myGithubRepo/FinalProject/xcode/CMakeFiles/ZERO_CHECK.dir
